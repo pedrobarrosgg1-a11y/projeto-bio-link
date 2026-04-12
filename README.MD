@@ -7,6 +7,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -40,6 +41,18 @@ O **DevLinks** é o meu primeiro projeto como programador! Ele funciona como uma
 - **WhatsApp** (contato direto)
 
 O projeto também conta com uma funcionalidade de troca de tema (Dark/Light Mode) baseada na preferência do usuário.
+
+## 🧠 Aprendizado
+
+Neste primeiro projeto, pude colocar em prática conceitos fundamentais de desenvolvimento web:
+
+- **HTML:** Estruturação de conteúdo e uso de tags semânticas.
+- **CSS:** Estilização, uso de variáveis para o Light/Dark mode, Flexbox para alinhamentos e responsividade.
+- **JavaScript:** Manipulação do DOM (Document Object Model) para criar a lógica de troca de temas e interação com o switch.
+- **Figma:** Interpretação de designs profissionais e exportação de assets.
+- **Git/GitHub:** Controle de versão e hospedagem do projeto.
+
+Eu gostei muito de criar esse projeto e estou motivado com os resultados e pretendo continuar estudando para aprimorar minhas habilidades e construir projetos cada vez mais complexos!
 
 ## 🔖 Layout
 
