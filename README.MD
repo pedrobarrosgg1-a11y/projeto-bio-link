@@ -50,3 +50,5 @@ Você pode visualizar o layout base que utilizei para me inspirar através [DEST
 Esse projeto está sob a licença MIT.
 
 ---
+
+Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
